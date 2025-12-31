@@ -1,0 +1,8 @@
+{
+  "name": "Kinetic - AI Physical Copilot",
+  "description": "A real-time multimodal AI assistant for physical tasks using Gemini Live API. Features safety interrupts, spatial guidance, and audio verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
